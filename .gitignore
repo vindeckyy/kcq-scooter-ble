@@ -1,0 +1,14 @@
+# extraction artifacts — do not commit
+*.apk
+*.xapk
+classes.dex
+AndroidManifest.xml
+resources.arsc
+jadx-out/
+jadx.log
+app.json
+
+# python
+.venv/
+__pycache__/
+*.pyc
