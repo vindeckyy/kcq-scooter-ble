@@ -40,6 +40,7 @@ Nothing is guesswork without being labelled as such.
 20. [Appendix C — reference implementation](#appendix-c--reference-implementation)
 21. [Appendix D — app version history](#appendix-d--app-version-history)
 22. [Disclaimer](#disclaimer)
+23. [License](#license)
 
 ---
 
@@ -1475,3 +1476,14 @@ repair. Writing to the controller can immobilise the vehicle or damage the motor
 wiring. Unlocking speed may make the vehicle illegal to ride on public roads — in most
 jurisdictions e-scooters are capped at 25 km/h / 15.5 mph. You are responsible for what you
 do with this.
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE). Use it, fork it, ship it, sell it; just keep the copyright
+notice.
+
+The APK referenced in §16 is **not** included in this repository and remains the property of
+its publisher. It is fetched at build/analysis time from a public mirror purely for
+interoperability research.
